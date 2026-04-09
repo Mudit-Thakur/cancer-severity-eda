@@ -278,7 +278,6 @@ jupyter notebook cancer_eda.ipynb
 
 **Analysis date:** 2015–2024 data  
 **Portfolio project:** Data analytics & ML for healthcare  
-**Questions:** [Open an issue](https://github.com/yourusername/cancer-eda/issues)
 
 ---
 
