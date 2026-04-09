@@ -290,5 +290,5 @@ MIT License — Feel free to use for learning, research, or portfolio work.
 
 ## 🙏 Acknowledgments
 
-- Dataset source: Assumed publicly available global cancer epidemiology study
-- Tools: Scikit-Learn, SciPy, Matplotlib communities
+- Dataset source: Kaggle Global Cancer Patients Dataset.
+- Tools: Scikit-Learn, SciPy, Matplotlib communities.
